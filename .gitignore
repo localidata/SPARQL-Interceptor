@@ -1,0 +1,8 @@
+/target/
+queries/
+run/
+SPARQLinterceptor/.project
+SPARQLinterceptor/.gitignore
+SPARQLinterceptor/.classpath
+src/tests/MilanTest.java
+src/tests/LondonTest.java
