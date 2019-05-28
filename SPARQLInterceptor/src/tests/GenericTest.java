@@ -32,7 +32,7 @@ public class GenericTest {
 		Utils.logConfLoad("log4j.properties");
 
 		ListOfQueries list = new ListOfQueries();
-		
+		 
 		return Utils.generateData(list);
 	}
 

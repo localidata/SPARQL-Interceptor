@@ -6,3 +6,7 @@ SPARQLinterceptor/.gitignore
 SPARQLinterceptor/.classpath
 src/tests/MilanTest.java
 src/tests/LondonTest.java
+/.metadata/
+SPARQLInterceptor/.settings/
+SPARQLInterceptor/src/tests/MilanTest.java
+SPARQLInterceptor/src/tests/LondonTest.java
